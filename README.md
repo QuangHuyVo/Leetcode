@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/QuangHuyVo/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/QuangHuyVo/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/QuangHuyVo/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/QuangHuyVo/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/QuangHuyVo/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/QuangHuyVo/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/QuangHuyVo/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/QuangHuyVo/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/QuangHuyVo/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/QuangHuyVo/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
