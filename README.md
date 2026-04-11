@@ -21,12 +21,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-equal-sum-grid-partition-ii](https://github.com/QuangHuyVo/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/QuangHuyVo/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/QuangHuyVo/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/QuangHuyVo/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/QuangHuyVo/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/QuangHuyVo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/QuangHuyVo/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/QuangHuyVo/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
