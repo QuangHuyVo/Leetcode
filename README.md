@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/QuangHuyVo/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/QuangHuyVo/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/QuangHuyVo/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/QuangHuyVo/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/QuangHuyVo/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/QuangHuyVo/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/QuangHuyVo/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/QuangHuyVo/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/QuangHuyVo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/QuangHuyVo/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/QuangHuyVo/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/QuangHuyVo/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
